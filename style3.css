@@ -1,0 +1,96 @@
+@media only screen and (max-width:1435px) {
+    .resume{
+        margin-left:777px;
+    }
+}
+
+@media only screen and (max-width:1322px) {
+    .resume{
+        margin-left:645px;
+    }
+}
+@media only screen and (max-width:1191px) {
+    .resume{
+        margin-left:517px;
+    }
+    .content{
+        padding-left: 339px;
+    }
+
+}
+@media only screen and (max-width:1062px) {
+    .resume{
+        margin-left:380px;
+    }
+}
+@media only screen and (max-width:956px) {
+    .resume{
+        margin-left:300px;
+    }
+
+    .content{
+        padding-left: 250px;
+    }
+}
+@media only screen and (max-width:858px) {
+    .resume{
+        margin-left:150px;
+    }
+    .content{
+        padding-left: 100px;
+    }
+}
+@media only screen and (max-width:706px) {
+    .content{
+        padding-left: 20px;
+    }
+    .resume{
+        margin-left:10px;
+    }
+}
+@media only screen and (max-width:560px) {
+    .content{
+        flex-direction: column-reverse;
+        padding-left: 0px;
+    }
+    .firsthalf{
+        padding-right: 0px;
+        margin-top: 10px;
+        margin-bottom: 50px;
+    }
+    .firsthalf h1,p ,div{
+        text-align: center;
+    }
+    .secondhalf{
+        
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+
+    .a1{
+        display: none;
+    }
+    .resume{
+        margin-left:100px;
+    }
+}
+@media only screen and (max-width:482px) {
+    .resume{
+        margin-left:10px;
+    }
+    .secondhalf{
+        padding-top: 10px;
+    }
+}
+@media only screen and (max-width:389px) {
+    .resume{
+        margin-left:-10px;
+    }
+}
+@media only screen and (max-width:370px) {
+    .resume{
+        margin-left:-50px;
+    }
+}
